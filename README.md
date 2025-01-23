@@ -67,11 +67,5 @@ The frontend of this application is deployed on **Netlify**. Visit the link belo
    git push
 
 
-### **Explanation:**
-- The **Acknowledgements** section acknowledges the technologies and tools you’ve used in the project.
-- The **How to Add It to Your Repository** section provides clear instructions for adding the `README.md` file to your GitHub repository.
 
-You can place this section at the end of your README or wherever it fits best.
-
-Let me know if you'd like further changes or adjustments! 😊
 
